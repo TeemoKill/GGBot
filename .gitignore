@@ -1,4 +1,7 @@
+.idea/
+
 # Binaries for programs and plugins
+GGBot
 *.exe
 *.exe~
 *.dll
